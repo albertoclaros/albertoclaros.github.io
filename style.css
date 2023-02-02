@@ -27,7 +27,7 @@ header {
     z-index: 1000;
     background-color: white;
 }
-header a {
+header a h1{
     color: black;
     font-size: 26px;
 }
